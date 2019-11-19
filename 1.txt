@@ -1,4 +1,4 @@
-将文件添加到环境变量目录：
+
 1. 编写 demo.py
    第一行加上  #!/usr/bin/env python3
 
