@@ -1,4 +1,4 @@
-123456
+
 1. 编写 demo.py
    第一行加上  #!/usr/bin/env python3
 
